@@ -1,0 +1,44 @@
+JAVA Setup
+--------------
+1) Download JDK - https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html
+2) Install JDK
+3) Configure Environmental Variables
+	JAVA_HOME=<Java Installation Directory Path>
+
+	e.g:
+	JAVA_HOME=C:\Program Files\Java\jdk17
+	Path=<existing path>;%JAVA_HOME%\bin
+4) Open new command prompt and verify Java version
+	java -version
+	javac -version
+5) Java Setup is Success if you see the version details
+
+Eclipse Setup
+-------------
+1) Download Eclipse - https://www.eclipse.org/downloads/
+2) Extract Eclipse zip file to local directory e.g: C:\Programs\Eclipse
+3) Navigate to Eclipse directory e.g: C:\Programs\Eclipse\eclipse
+4) Create shortcut to Desktop for eclipse.exe
+5) Launch Eclipse by double clicking eclipse.exe
+6) Select Workspace directory
+7) Launch Eclipse and you can see Welcome Dashboard or Blank Editor
+
+STS Setup
+----------
+1) Download STS - https://spring.io/tools
+2) Extract STS jar file by executing 'java -jar spring-tool-suite*.jar' to local directory e.g: C:\Programs\STS
+3) Navigate to STS directory e.g: C:\Programs\STS\sts-<4.x.x>.RELEASE
+4) Create shortcut to Desktop for SpringToolSuite4.exe
+5) Launch STS by double clicking SpringToolSuite4.exe
+6) Select Workspace directory
+7) Launch STS and you can see Welcome Dashboard or Blank Editor
+
+Intellij IDEA Setup
+-------------------
+1) Download Intellij IDEA - https://www.jetbrains.com/idea/download/#section=windows
+2) Extract Intellij zip file to local directory e.g: C:\Programs\Intellij
+3) Navigate to Intellij directory e.g: C:\Programs\Intellij\ideaIC-202x.x.x
+4) Create shortcut to Desktop for idea64.exe as Intellij
+5) Launch Intellij by double clicking Intellij
+6) Select Workspace directory
+7) Launch Intellij and you can see Welcome Dashboard or Blank Editor

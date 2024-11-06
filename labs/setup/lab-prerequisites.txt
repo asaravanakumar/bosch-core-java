@@ -1,0 +1,10 @@
+Hardware / Network Requirements:
+	Desktop or Laptop with minimum 8 GB RAM (16 GB Recommended)
+	Open Internet connection with good speed (minimum 5 Mbps per user)
+
+Software Requirements:
+	Windows / Linux / Mac OS
+	JDK 17+
+	Eclipse 4.8+ / STS 4+ / Intellij IDE
+	Git 2.40+
+	Maven 3.8+
