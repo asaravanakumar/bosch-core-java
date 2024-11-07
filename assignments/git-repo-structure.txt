@@ -1,0 +1,16 @@
+bosch-bootcamp-java
+
+	|
+	|____	labs
+		  |___ core-java-labs
+
+	|
+	|____ 	assignments
+			|
+			|__ core-java-assignments
+			|							
+			|__ productapp-with-arrays
+			|
+			|__ productapp-with-collection
+			|
+			|__ productapp-with-impexp
