@@ -12,6 +12,9 @@ public class OperatorsDemo {
         // Conditional operator: (expr) ? value if true : value if false
         // instanceOf => ( Object reference variable ) instanceof (class/interface type)
 
+        int a = 10;
+        int b = 20;
+
         System.out.println("\n" + "Ternary operator example...");
         System.out.println(a == b ? "a and b are equal" : "a and b are not equal");
 

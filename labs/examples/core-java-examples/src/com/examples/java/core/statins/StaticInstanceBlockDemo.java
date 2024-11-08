@@ -2,6 +2,8 @@ package com.examples.java.core.statins;
 
 public class StaticInstanceBlockDemo {
 
+    private int id;
+
     // static block
     static {
         System.out.println("Static Block called..");
@@ -9,6 +11,8 @@ public class StaticInstanceBlockDemo {
 
     // instance block
     {
+        id = 100;
+        System.out.println("ID: " + id);
         System.out.println("Instance Block called..");
     }
 

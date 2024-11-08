@@ -1,6 +1,5 @@
 package com.examples.java.io;
 
-import java.io.Serial;
 import java.util.List;
 
 public class Employee implements java.io.Serializable {
