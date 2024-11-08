@@ -1,0 +1,53 @@
+		
+ASSIGNMENT 01: Build Java Console based Product Management App with below functionalities using Arrays
+				1] Add Product
+				2] Update Product
+				3] Delete Product
+				4] View Product
+				5] View All Products
+				6] Exit
+
+	Product
+	   id		int
+	   category	ProductCategory
+	   description	String
+	   price	double
+	   active	boolean
+
+
+	ProductCategory
+	   Mobiles
+	   Laptops
+	   Furnitures
+	   Stationary
+
+
+ASSIGNMENT 02: Enhance Java Console based Product Management App which below functionalities using Collection with Exception Handling
+				1] Add Product
+				2] Update Product
+				3] Delete Product
+				4] View Product
+				5] View All Products
+				6] Print Statistics [Implement using Java Collection]
+					a] No of products whose price more than 10k
+					b] Show no of products by product category with sorting
+					c] Show avg price by product category			
+					d] List product ids whose product name contains given name				
+				7] Exit
+
+
+
+ASSIGNMENT 03:  Enhance Java Console based Product Management App to import and export the details from or to file
+				1] Add Product
+				2] Update Product
+				3] Delete Product
+				4] View Product
+				5] View All Products
+				6] Print Statistics [Implement using Stream API]
+					a] No of products whose price more than 10k
+					b] Show no of products by product category with sorting
+					c] Show avg price by product category			
+					d] List product ids whose product name contains given name				
+				7] Import [Product Details]
+				8] Export [Product Details]
+				9] Exit

@@ -64,5 +64,3 @@ a. Show Order Category wise Count
 b. Show Order Category wise Total Amount
 
 EXERCISE 10: Write a program to read/write Order details from file system using Java File IO
-
-
